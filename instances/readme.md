@@ -1,0 +1,1 @@
+In this folder, there is a collection of all the instances used to test the proposed approaches. They may be found online also [here](http://www-personal.umich.edu/~mejn/netdata/). In each folder, information about the instance (together with its source) and the .gml associated file may be found.
